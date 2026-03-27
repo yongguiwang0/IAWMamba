@@ -32,6 +32,16 @@ This repository contains the official implementation of **IAWMamba**, an illumin
 
 ---
 
+## Visualization Results
+
+### Training Dynamics on DroneVehicle Dataset
+
+![AP Curves on DroneVehicle Test Set](figures/ap_curves_dronevehicle.png)
+
+**Visualizations of the average precision (AP) curves for the DroneVehicle test set.** Panels (a)-(d) correspond to OBB annotations, and panels (e)-(h) correspond to HBB annotations. Each curve illustrates the model's performance across different training checkpoints (100, 150, 200, and 250 epochs), providing insights into the training dynamics and convergence behavior.
+
+---
+
 ## Citation
 
 If you find this work useful, please consider citing our paper once it is published:
