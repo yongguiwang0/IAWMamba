@@ -117,7 +117,7 @@ VTUAV-det is the object-detection version of the VTUAV visible–thermal UAV tra
 
 ### Training Dynamics on the DroneVehicle Dataset
 
-![AP Curves on DroneVehicle Test Set](figures/ap_curves_dronevehicle.png)
+// ![AP Curves on DroneVehicle Test Set](figures/ap_curves_dronevehicle.png)
 
 **Average precision curves on the DroneVehicle test set.** Panels (a)–(d) present the results under oriented bounding-box annotations, while panels (e)–(h) present the results under horizontal bounding-box annotations. The curves illustrate model performance at different training checkpoints and provide insight into the convergence behavior of IAPF.
 
