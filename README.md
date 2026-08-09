@@ -1,6 +1,6 @@
-# IAWMamba
+# IAPF
 
-**Illumination-Adaptive Weakly-Aligned Multimodal Mamba for UAV Small Object Detection**
+**IAPF: Infrared-Anchored Progressive Fusion for Weakly Aligned Visible--Infrared Object Detection**
 
 &gt; 📄 **Paper Status**: Under Review  
 &gt; 🔓 **Code Release**: Will be fully open-sourced upon paper acceptance
